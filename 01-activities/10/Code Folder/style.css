@@ -1,0 +1,41 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.colorBtn {
+  font-size: 14px;
+  padding: 8px 24px;     
+  background-color: #0b73ff; 
+  color: white;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer; 
+}
+
+.colorBtn:hover {
+  background-color: #094CA7; 
+}
+
+
+.shapeSelect{
+  font-size: 14px;
+  padding: 8px 24px;     
+  background-color: #0b73ff; 
+  color: white;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer; 
+}
+
+.shapeSelect:hover {
+  background-color: #094CA7; 
+}
+
+p {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+}
